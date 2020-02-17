@@ -1,6 +1,6 @@
 # nextjs-test
 
-This is a test of NextJS, manually setup.
+This is a test of NextJS, manually setup. Test.
 
 ## Getting started (via CLI)
 
